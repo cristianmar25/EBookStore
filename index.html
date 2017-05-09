@@ -19,7 +19,7 @@
 
 <body>
   <div class="container" ng-controller="BooksController">
-    <img src="public/img/google.jpg" alt="Google Play Books" width="300px" height="auto">
+    <img src="public/img/google.jpg" alt="Google Play Books" width="100px" height="auto">
 
     <form class="form-inline">
       <div class="form-group">
@@ -53,6 +53,7 @@
             <h2>{{ book.author }}</h2>
             <h3>{{ book.editorial }}</h3>
             <p>{{ book.description }}</p>
+            <h3>Price:{{ book.price }}</h3>
             <h3>Rank this</h3>
             <div class="container">
 

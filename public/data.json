@@ -4,7 +4,8 @@
     "author": "J. M. Sarmiento",
     "editorial": "Planet House Editorials",
     "description": "No matter that you are an engineer, homemaker, doctor, driver or just a writer, we can bet that these stories will fascinate you to the degree of catching you and sowing new ideas and doubts about your daily lives.",
-    "img": "public/img/tierra.jpg"
+    "img": "public/img/tierra.jpg",
+    "price": "6.80 dlls"
   },
   {
     "id": "2",
@@ -12,7 +13,8 @@
     "author": "John Katzenbach",
     "editorial": "Editions B",
     "description": "On the day of his 53rd birthday, Dr. Starks, a psychoanalyst with a long career behind him, receives a mysterious and unsettling anonymous. Starks will have to use all his cunning to, in fifteen days, find out who the author of the missive is. If he does not, he must choose between committing suicide or witnessing how, one after another, his family and friends are being killed by a psychopath who promises to carry his revenge to the end.",
-    "img": "public/img/analista.jpg"
+    "img": "public/img/analista.jpg",
+    "price": "10.10 dlls"
   },
   {
     "id": "3",
@@ -20,6 +22,7 @@
     "author": "Patrick Süskind",
     "editorial": "Group Planeta Spain",
     "description": "Perhaps the smells evoke the privilege of invisibility. Before the touch, the smell happens, like messenger of an essence that knows to disappear in the air and to be agent of a great power. The seduction that unfolds the smell is implacable: it installs in us and seals its power in the tissues of memory.",
-    "img": "public/img/perfume.jpg"
+    "img": "public/img/perfume.jpg",
+    "price": "60.80 dlls"
   }
 ]
